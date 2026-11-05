@@ -1,0 +1,6 @@
+{
+  "name": "DayPilot AI",
+  "description": "Personal AI study, productivity and scheduling assistant with learning roadmaps, task tracking, and interactive calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

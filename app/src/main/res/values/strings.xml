@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DayPilot AI</string>
+    <string name="title_home">Home</string>
+    <string name="title_assistant">AI Assistant</string>
+    <string name="title_plans">My Plans</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_profile">Profile</string>
+</resources>
